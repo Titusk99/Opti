@@ -1,5 +1,5 @@
 /* Fichier CSS non minifié avec des styles redondants */
-body {
+head {
     font-family: 'Roboto', sans-serif;
     background-color: #fafafa;
     color: #333;
